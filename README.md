@@ -4,7 +4,7 @@ I developed a non-incremental online learning system using a parallelized reserv
 
 For the summary of parallelized reservoir, see
 
-https://github.com/tsuyoshi-yoneda-math/SummaryNoteSlide-ML-Turbulence/blob/main/summary_of_parallelized_reservoir_framework.pdf
+https://github.com/tsuyoshi-yoneda-math/SummaryNoteSlide-ML-Turbulence/blob/main/parallelized_online_RNN.pdf
 
 We applied this method to predict SP500 and the result is as follows:
 
@@ -45,8 +45,3 @@ Despite the difference of several orders of magnitude in computational cost, the
 </H3>
 <br>
 
----
-
-If you want to know the mathematical structure of the data-driven filter, please go to
-
-https://github.com/tsuyoshi-yoneda-math/SummaryNoteSlide-ML-Turbulence/blob/main/summary_ML_impl_driven_math.pdf
