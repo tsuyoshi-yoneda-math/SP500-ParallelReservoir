@@ -1,6 +1,6 @@
 Please acknowledge the use of these scripts in any publications that make use of them.
 
-I developed a non-incremental online learning system using a parallelized reservoir and the corresponding data-driven filter. Unlike long-term learning models, its strength lies in its ability to adapt flexibly to sudden changes in patterns.
+I developed a non-incremental online learning system using a parallelized Rreservoir and the corresponding data-driven filter. Unlike long-term learning models, its strength lies in its ability to adapt flexibly to sudden changes in patterns.
 
 For the summary of parallelized reservoir, see
 
